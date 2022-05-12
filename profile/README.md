@@ -1,29 +1,37 @@
-## Hi there 👋
+# Cloud Nine Digital
+This organization holds any repositories that are used within Cloud Nine Digital and its clients.
 
-<!--
+## Project conventions
+### Internal repositories
+Internal repositories are any repositories that might be used by tools made for the team or by more than one client. Such repositories should target generic functionality such as handling API calls or handling Analytics data. For easily recognizing internal repositories, the following naming convention should be followed:
+```
+cnd-<some-functionality>
+```
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
+See a few examples of internal repository names below:
+```
 cnd-magento-api
 cnd-survio-api
 cnd-universalanalytcs-api
 cnd-googleanalytics4-api
 cnd-facebook-api
 cnd-tools
-	cnd-google-authentication
-
+cnd-authentication
+cnd-generic-api
+```
 -------
 
+### Client projects
+Client project repositories should contain code that usually cannot be reused by any other client or tool inside the organization. For these repositories the naming convention is as follows:
+```
+<client-name>-<project-name>
+```
+See a few examples below:
+```
 fleurametz-marketingdatatobq
 staatsbosbeheer-enquetedashboard
- 
+```
+## Python project structure
 
+Please see the [guidelines for python project structure](https://wiki.cloudninedigital.nl/Processing-and-Delivery/Software-Development/Python/installable-python-packages).
 
