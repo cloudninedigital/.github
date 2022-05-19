@@ -23,12 +23,12 @@ cnd-generic-api
 ### Client projects
 Client project repositories should contain code that usually cannot be reused by any other client or tool inside the organization. For these repositories the naming convention is as follows:
 ```
-<client-name>-<project-name>
+ext-<client-acronym>-<project-name>
 ```
 See a few examples below:
 ```
-fleurametz-marketingdatatobq
-staatsbosbeheer-enquetedashboard
+ext-fleurametz-marketingdatatobq
+ext-staatsbosbeheer-enquetedashboard
 ```
 ## Python project structure
 
