@@ -1,6 +1,8 @@
 # Cloud Nine Digital
 This organization holds any repositories that are used within Cloud Nine Digital and its clients.
 
+For projects that you think are not necesserily usable by other team members, please create them under your own profile and not under the `cloudninedigital` organization.
+
 ## Project conventions
 ### Internal repositories
 Internal repositories are any repositories that might be used by tools made for the team or by more than one client. Such repositories should target generic functionality such as handling API calls or handling Analytics data. For easily recognizing internal repositories, the following naming convention should be followed:
