@@ -32,7 +32,7 @@ staatsbosbeheer-enquetedashboard
 ```
 ## Python project structure
 
-At Cloud Nine Digital we have a project template that you can use directly. **[Use the CND template](https://github.com/cloudninedigital/cnd-python-template/generate)**.
+At Cloud Nine Digital we have a project template that you can use directly. **[Use the CND template](https://github.com/cloudninedigital/cnd-python-template/generate)**. Check the [template on GitHub](https://github.com/cloudninedigital/cnd-python-template).
 
 If you are not found of using the template, then please review the [guidelines for python project structure](https://wiki.cloudninedigital.nl/Processing-and-Delivery/Software-Development/Python/installable-python-packages).
 
