@@ -23,7 +23,7 @@ cnd-generic-api
 ### Client projects
 Client project repositories should contain code that usually cannot be reused by any other client or tool inside the organization. For these repositories the naming convention is as follows:
 ```
-ext-<client-acronym>-<project-name>
+ext-<client-name>-<project-name>
 ```
 See a few examples below:
 ```
